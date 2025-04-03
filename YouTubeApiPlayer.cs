@@ -5,7 +5,7 @@ using System.Diagnostics;
 
 public static class YouTubeApiPlayer
 {
-    const string API_KEY = "AIzaSyCrzQH5Wmp-mHUwLYxd8NWRppa2sfsv0lc";
+    const string API_KEY = "MY_KEY";
 
     public static void PlayRandomMusic()
     {
